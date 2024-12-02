@@ -12,4 +12,4 @@ export const banner = `
  ╰─━━━━━━━━━━━━━━━━━━━━━━━━Termux-os━━━━━━━━━━━━━━━━━━━━━━━─╯
 
                     Running OpenLoop BETA CLI Version                
-                t.me/zlkcybergroup *** github.com/Mittyadav                  `
+                t.me/scripthub00 *** github.com/Mittyadav                  `
